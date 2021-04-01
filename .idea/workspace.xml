@@ -15,6 +15,7 @@
       <change beforePath="$PROJECT_DIR$/client/src/setupTests.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
   </component>
   <component name="ProjectId" id="1qUAP9n4yY9CTsBPV2LukaamBFF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -68,7 +69,7 @@
       <updated>1617123770896</updated>
       <workItem from="1617123785283" duration="19714000" />
       <workItem from="1617271813895" duration="2000" />
-      <workItem from="1617273385974" duration="5649000" />
+      <workItem from="1617273385974" duration="8398000" />
     </task>
     <servers />
   </component>
